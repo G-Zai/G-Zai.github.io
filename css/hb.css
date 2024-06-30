@@ -9899,6 +9899,11 @@ a img {
   height: 100px;
   width: 100px; }
 
+@media (min-width: 992px) {
+  .hb-blog-home-carousel .carousel-img,
+  .hb-blog-home-carousel .carousel-img-placeholder {
+    height: 400px !important; } }
+
 .hb-blog-post-card-img {
   height: 160px;
   -o-object-fit: cover;
