@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Gload`s Space</title>
+    <link>https://G-Zai.github.io/en/posts/</link>
+    <description>Recent content in Posts on Gload`s Space</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 24 Jun 2024 20:25:25 +0800</lastBuildDate>
+    <atom:link href="https://G-Zai.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First blog</title>
+      <link>https://G-Zai.github.io/en/posts/new-post/</link>
+      <pubDate>Mon, 24 Jun 2024 20:25:25 +0800</pubDate>
+      <guid>https://G-Zai.github.io/en/posts/new-post/</guid>
+      <description>&lt;p&gt;With three days operation ,I finally post one page, I will share more cycling after exam (from a college who is busy going over our lessons for the final exam).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

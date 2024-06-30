@@ -1,2 +1,1 @@
 User-agent: *
-Sitemap: https://G-Zai.github.io/sitemap.xml
