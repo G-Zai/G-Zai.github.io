@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blogs on Gload Space</title>
+        <link>http://localhost:1313/blog/</link>
+        <description>Recent content in Blogs on Gload Space</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Gload</copyright>
+        <lastBuildDate>Wed, 10 Jul 2024 21:53:37 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Bikeback</title>
+        <link>http://localhost:1313/blog/bikeback/</link>
+        <pubDate>Wed, 10 Jul 2024 21:53:37 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/bikeback/</guid>
+        <description>&lt;p&gt;Bikeback&lt;/p&gt;
+&lt;p&gt;Yesterday,I rided my bike from the subway station which has about 100km away from my place when the weather is sunny.Then I clear my bike and buy a rack for it. It`s time to get going when prepared.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>Raining</title>
+        <link>http://localhost:1313/blog/raining/</link>
+        <pubDate>Sun, 07 Jul 2024 22:19:53 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/raining/</guid>
+        <description>&lt;p&gt;The good news is that we are on vacation,but it will rain for a long time&lt;/p&gt;
+&lt;p&gt;After the rainy season,I will start my trip. Before that, I think there would be many things that I haven`t prepared. So I will buy some equipments when I go to Decathlon. Departure by the end of month at the latest.&lt;/p&gt;
+&lt;!-- During the summer holiday , we are facing a serious problem —— rainy season. Due to the prolonged fainfall, many crops were waterlogged to death.We have already experience a drought.So you can image how difficulty the farming for the farmer. --&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

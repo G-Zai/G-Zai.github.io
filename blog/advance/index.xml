@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Advance on Gload Space</title>
+        <link>http://localhost:1313/blog/advance/</link>
+        <description>Recent content in Advance on Gload Space</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>Gload</copyright>
+        <lastBuildDate>Mon, 24 Jun 2024 20:25:25 +0800</lastBuildDate><atom:link href="http://localhost:1313/blog/advance/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>博文预告</title>
+        <link>http://localhost:1313/blog/advance/_index.zh-hans/</link>
+        <pubDate>Mon, 24 Jun 2024 20:25:25 +0800</pubDate>
+        
+        <guid>http://localhost:1313/blog/advance/_index.zh-hans/</guid>
+        <description>&lt;p&gt;折腾了三天，发布了第一条文章，等期末考试之后，会分享骑行旅途.（来自一位被期末考试逼疯的大学牲）&lt;/p&gt;
+&lt;p&gt;Ps：这里将作为个人分享知识和旅途的树洞。😄&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
